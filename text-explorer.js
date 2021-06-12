@@ -8,6 +8,7 @@ const directionLeft = "left"
 const directionUp = "up"
 const directionDown = "down"
 
+
 const stopProgram = "done"
 
  let x = 0
